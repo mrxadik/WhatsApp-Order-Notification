@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WhatsApp Order Notification
- * Plugin URI: https://github.com/mrxadik
+ * Plugin URI: https://github.com/mrxadik/WhatsApp-Order-Notification
  * Description: Sends WooCommerce order notifications to WhatsApp via CallMeBot API.
  * Version: 2.9
  * Author: MRXADIK
